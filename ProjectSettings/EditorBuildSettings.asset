@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_preload.unity
+    guid: a28fcc3d3b8365e4bbadf96604f55cbc
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 8a0e3c9c3b9c76c4fbc3dd0706a01f48
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Easy/SlidePuzzleEasy1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Easy/SlidePuzzleEasy2.unity
+    guid: 9dce8b069e6323b469755f6377fe33e3
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Easy/SlidePuzzleEasy3.unity
+    guid: 96fc7e884c2b5374597737758b15a54f
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Medium/SlidePuzzleMedium1.unity
+    guid: f26a7c8e9c92c6344b7a5399bd6da942
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Medium/SlidePuzzleMedium2.unity
+    guid: 66b5fbdbe2d999c4cace1d30a3628f56
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Medium/SlidePuzzleMedium3.unity
+    guid: 29d31c55bbf48aa4d927716aaff64e39
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Hard/SlidePuzzleHard1.unity
+    guid: b60546d4cb3a91a44b83a21a23941d0d
+  - enabled: 1
+    path: Assets/Scenes/SlidePuzzles/Hard/SlidePuzzleHard2.unity
+    guid: 7c22951e734f209499151fa31f9f137d
+  m_configObjects: {}
